@@ -11,5 +11,6 @@ _ Explicar o resaltar puntos claves y ventajas de la solucion
 --> Sub Carpeta 2
 -> Carpeta 2
 
-´´´bash
+```bash
 git clone
+```
